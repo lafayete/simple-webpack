@@ -1,0 +1,29 @@
+{
+  "name": "simple-webpack",
+  "version": "1.0.0",
+  "description": "100行代码实现一个简单的webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lafayete/simple-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lafayete/simple-webpack/issues"
+  },
+  "homepage": "https://github.com/lafayete/simple-webpack#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/highlight": "^7.0.0",
+    "@babel/parser": "^7.1.3",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/traverse": "^7.1.4"
+  },
+  "dependencies": {
+    "js-beautify": "^1.6.14"
+  }
+}
